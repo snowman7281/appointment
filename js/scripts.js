@@ -10,7 +10,7 @@ $(document).ready(function(){
       var time = $("#time").val();
       var $output = $(".output");
       $("#name").hide();
-      $output.text("Thank you " + person + " for setting an appointment on " + newDate + " at " + time);
+      $output.text("Thank you " + person + " for setting an appointment on " + newDate + " at " + time + ". I will get back to you as soon as possible!");
 
       e.preventDefault();
     });
