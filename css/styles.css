@@ -1,0 +1,18 @@
+
+h1{
+  text-align: center;
+}
+
+#description{
+  height: 300px;
+}
+
+#name{
+  width: 50%;
+  margin: 0 auto;
+}
+
+.output{
+  text-align: center;
+  margin-top: 50%;
+}
